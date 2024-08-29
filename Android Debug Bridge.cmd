@@ -9,8 +9,8 @@ rem ========== SETUP BY TOOLS ==================================================
     adb start-server
     rem adb shell am start -n com.idata.iscanv2/com.idata.iscanv2.MainActivity mở ứng dụng quét mã vạch trên k1s
     rem bạn hãy thay đổi và pass wifi tại đây ================================================================================================
-                set duong_dan_app_ban_cu=D:\ANT\Program\File_APP_APK\JTSprinter_version\JTSprinter1.1.103.apk
-                set duong_dan_app_ban_moi=D:\ANT\Program\File_APP_APK\JTSprinter_version\JTSprinter1.1.117.apk
+                set duong_dan_app_ban_cu=D:\ANT\Program\File_APP_APK\JTSprinter_version\JTSprinter1.1.117.apk
+                set duong_dan_app_ban_moi=D:\ANT\Program\File_APP_APK\JTSprinter_version\JTSprinter1.1.121.apk
                 set packages_name_JT_cu=cn.yssoft.vietnam
                 set packages_name_JT_cu_autoid_Q9=cn.yssoft.philippines
             rem pass wifi J&T Expreess Office
